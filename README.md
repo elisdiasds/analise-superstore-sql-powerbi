@@ -45,8 +45,7 @@ Este projeto tem como objetivo realizar uma análise exploratória usando SQL a 
 
 ---
 ## 📸 Visualizações
-![Dashboard Superstore](images/Painel Superstore.jpg)
-
+![Dashboard Superstore](images/painel-superstore.jpg)
 
 - Visualizações Para complementar, segue o PDF gerado no Power BI com os dashboards interativos criados a partir dessas consultas.
 
